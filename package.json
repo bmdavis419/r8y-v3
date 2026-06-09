@@ -1,6 +1,7 @@
 {
 	"name": "@r8y/root",
 	"private": true,
+	"license": "MIT",
 	"scripts": {
 		"dev": "turbo run dev --ui tui",
 		"check": "turbo run check",
